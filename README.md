@@ -2,13 +2,12 @@
 
 # `whoami`
 
-**sara :)**
-
-<div align="center">
-
+**sara**  
 `information engineering @ FTN`
-</div>
-data · fintech · cybersecurity
+
+<img src="https://img.shields.io/badge/data-8B7CF6?style=flat-square">
+<img src="https://img.shields.io/badge/fintech-6EC6A8?style=flat-square">
+<img src="https://img.shields.io/badge/cybersecurity-E89B93?style=flat-square">
 
 </div>
 
@@ -16,42 +15,47 @@ data · fintech · cybersecurity
 
 ### currently
 
-studying things I didn't know existed a year ago.
+studying things I didn't know existed six months ago.
 
-writing code.
+writing code.  
+breaking code.  
+occasionally understanding why.
 
-breaking code.
-
-occasionally understanding why I broke it.
+my github is mostly study notes, small projects, algorithms,
+and evidence that I was, in fact, doing something at 3am.
 
 ---
 
 ### interested in
 
-**data** — because apparently making spreadsheets is not enough.
+**data engineering**  
+making data useful before it becomes 17 different csv files.
 
-**fintech** — software gets considerably more interesting when money is involved.
+**fintech**  
+software + data + money. somehow that combination keeps getting more interesting.
 
-**cybersecurity** — if it can break, I'd like to know why.
+**cybersecurity**  
+learning how things break, mostly so I can understand how they work.
+
+---
+
+### about the username
+
+`b3thowen` has absolutely no deep meaning.
+
+I made it when I was younger, for reasons I no longer remember,
+and somehow it stuck.
+
+now my friends know me as `b3thowen`, so I guess I'm committed.
 
 ---
 
 ### github situation
 
-```text
-coursework        ████████░░
-study notes       █████████░
-unfinished stuff  ██████████
-random ideas      ████░░░░░░
-```
+```bash
+$ git status
 
-some of it is useful.
-some of it is here for historical evidence.
-
----
-
-<div align="center">
-
-`$ echo "figure it out"`
-
-</div>
+learning        █████████████░░
+building        ████████░░░░░░░
+debugging       ███████████████
+sleep           error: not found
