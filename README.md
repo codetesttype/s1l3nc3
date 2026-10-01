@@ -7,11 +7,9 @@
 <div align="center">
 `information engineering @ FTN`
 </div>
-
-<div>
 <img src="https://img.shields.io/badge/data-8B7CF6?style=flat-square">
 <img src="https://img.shields.io/badge/fintech-6EC6A8?style=flat-square">
-<img src="https://img.shields.io/badge/security-E89B93?style=flat-square">
+<img src="https://img.shields.io/badge/cybersecurity-E89B93?style=flat-square">
 
 </div>
 
