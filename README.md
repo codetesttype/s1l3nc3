@@ -2,8 +2,7 @@
 
 # `whoami`
 
-**sara :)**
-**AKA b3thowen**
+**sara | b3thowen**
 
 <div align="center">
 `information engineering @ FTN`
