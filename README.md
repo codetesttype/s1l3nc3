@@ -4,7 +4,7 @@
 
 **sara**
 
-</div>
+<div align="center">
 
 `information engineering @ FTN`
 
