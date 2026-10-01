@@ -13,19 +13,35 @@
 
 ---
 
-currently learning things, building things, and occasionally breaking things.
+### currently
+
+studying.
+writing code.
+breaking code.
+occasionally fixing it.
+
+---
+
+### interested in
+
+**data engineering** · **fintech** · **cybersecurity**
+
+---
+
+### lately
 
 ```bash
 $ git status
 
 learning      ████████████░░
+building      ████████░░░░░░
 debugging     ██████████████
 sleep         error: not found
 ```
 
 <sub>
-also, <code>b3thowen</code> is a username I made when I was younger.
-no idea where it came from. it stuck.
+fun fact: <code>b3thowen</code> is a username I made when I was younger.
+No idea where it came from. It stuck.
 </sub>
 
 <div align="center">
