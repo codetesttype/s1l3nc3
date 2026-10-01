@@ -2,7 +2,7 @@
 
 # `whoami`
 
-**sara**
+**sara :)**
 
 <div align="center">
 
@@ -16,7 +16,7 @@ data · fintech · cybersecurity
 
 ### currently
 
-studying things I didn't know existed six months ago.
+studying things I didn't know existed a year ago.
 
 writing code.
 
@@ -40,9 +40,9 @@ occasionally understanding why I broke it.
 
 ```text
 coursework        ████████░░
-random ideas      ████░░░░░░
 study notes       █████████░
 unfinished stuff  ██████████
+random ideas      ████░░░░░░
 ```
 
 some of it is useful.
