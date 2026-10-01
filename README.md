@@ -3,7 +3,10 @@
 # `whoami`
 
 **sara**
+
+<div align="center">
 `information engineering @ FTN`
+</div>
 
 <img src="https://img.shields.io/badge/data-8B7CF6?style=flat-square">
 <img src="https://img.shields.io/badge/fintech-6EC6A8?style=flat-square">
