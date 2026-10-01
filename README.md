@@ -2,7 +2,7 @@
 
 # `whoami`
 
-**sara**  
+**sara**
 `information engineering @ FTN`
 
 <img src="https://img.shields.io/badge/data-8B7CF6?style=flat-square">
@@ -13,45 +13,23 @@
 
 ---
 
-### currently
-
-studying things I didn't know existed six months ago.
-
-writing code.  
-breaking code.  
-occasionally understanding why.
-
-my github is mostly study materials, small projects, algorithms,
-and other evidence that I am, in fact, doing something.
-
----
-
-### interested in
-
-**data engineering**  
-making data useful. preferably before it becomes 17 different csv files.
-
-**fintech**  
-software + data + money. somehow this always gets interesting.
-
-**cybersecurity**  
-learning how things break, mostly so I can understand how they work.
-
----
-
-### lately
+currently learning things, building things, and occasionally breaking things.
 
 ```bash
 $ git status
 
-currently:
-  learning      ████████████░░
-  building      ████████░░░░░░
-  debugging     ██████████████
-  sleep         error: not found
+learning      ████████████░░
+debugging     ██████████████
+sleep         error: not found
+```
 
-  <sub> fun fact: <code>b3thowen</code> is a username I made when I was younger. I don't remember where it came from. It stuck, apparently. </sub> <div align="center">
+<sub>
+also, <code>b3thowen</code> is a username I made when I was younger.
+no idea where it came from. it stuck.
+</sub>
 
-$ echo "figure it out"
+<div align="center">
 
-</div> ```
+`$ echo "figure it out"`
+
+</div>
