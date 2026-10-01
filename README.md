@@ -1,28 +1,51 @@
 <div align="center">
 
-# hey, i'm sara :)
+# sara :)
 
-### computer science student · builder · professional debugger
+`information engineering @ FTN`
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-b3thoven-181717?style=flat-square&logo=github)](https://github.com/b3thoven)
+data · fintech · cybersecurity
 
 </div>
 
 ---
 
-## `whoami`
+### currently
+
+mostly studying.
+
+sometimes building things.
+
+occasionally pushing a project at 3am and deciding that
+future me can deal with it.
+
+my github is currently a collection of:
+
+- 📚 study materials
+- 💻 small course projects
+- 🧠 algorithms I am trying to actually understand
+- 🐛 bugs I was very confident were not my fault
+
+---
+
+### interested in
+
+**data engineering**  
+making data do something useful instead of just letting it sit there
+
+**fintech**  
+where software, data and money get interesting
+
+**cybersecurity**  
+because understanding how things break is probably useful
+
+---
+
+### things i've been learning
 
 ```text
-CS student
-↓
-learning by building things
-↓
-breaking things
-↓
-figuring out why
-↓
-fixing them
-↓
-repeat
+C             ████████████░░░
+Python        ███████████░░░░
+SQL           ████████░░░░░░░
+Git           ██████████░░░░░
+Algorithms    ███████████░░░░
