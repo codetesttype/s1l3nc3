@@ -49,3 +49,9 @@ currently:
   building      ████████░░░░░░
   debugging     ██████████████
   sleep         error: not found
+
+  <sub> fun fact: <code>b3thowen</code> is a username I made when I was younger. I don't remember where it came from. It stuck, apparently. </sub> <div align="center">
+
+$ echo "figure it out"
+
+</div> ```
