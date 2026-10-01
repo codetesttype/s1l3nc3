@@ -7,7 +7,7 @@
 <div align="center">
 
 `information engineering @ FTN`
-
+</div>
 data · fintech · cybersecurity
 
 </div>
