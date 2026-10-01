@@ -18,13 +18,13 @@
 │  information engineering student                            │
 │                                                             │
 │  user@sara:~$ cat /etc/interests                            │
-│  data engineering                                          │
-│  fintech                                                   │
-│  cybersecurity                                             │
-│  computers doing suspiciously interesting things           │
+│  data engineering                                           │
+│  fintech                                                    │
+│  cybersecurity                                              │
+│  computers doing suspiciously interesting things            │
 │                                                             │
-│  user@sara:~$ ./status                                     │
-│  studying. building things. breaking things.               │
-│  occasionally fixing them.                                 │
+│  user@sara:~$ ./status                                      │
+│  studying. building things. breaking things.                │
+│  occasionally fixing them.                                  │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
